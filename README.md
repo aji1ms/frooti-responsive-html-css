@@ -1,6 +1,6 @@
 # Frooti Responsive Clone
 
-🚖 A responsive clone of the youtube homepage built using HTML/CSS.
+🚖 A responsive clone of the Frooti homepage built using HTML/CSS.
 
 ## 🚧 Status
 
