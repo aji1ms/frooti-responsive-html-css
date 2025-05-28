@@ -4,7 +4,7 @@
 
 ## 🚧 Status
 
-❌ *Responsive*  
+✅ *Responsive*  
 ✅ *Works well on all view mobile&desktop*
 
 
